@@ -1,0 +1,48 @@
+.checkout{
+  display: flex;
+  padding: 20px;
+  background-color: white;
+  height: max-content;
+}
+.checkout_ad{
+  width: 100%;
+  margin-bottom: 10px;
+}
+.checkout_title {
+display: inline-block; /* Display the title and button in the same line */
+margin-right: 10px;
+padding: 10px;
+border-bottom: 1px solid lightgrey;
+}
+
+.removeAllButton {
+background: #f0c14b;
+border-radius: 2px;
+height: 30px;
+width: 200px;
+border: 1px solid;
+border-color: #a88734 #9c7e31 #846a29;
+margin-top: 10px; /* Adjust the margin as needed */
+padding: 5px 10px; /* Add padding to the button for better spacing */
+margin-left: 50%;
+}
+.removeAllButton:hover {
+background: #d4ac0d; /* Change the background color on hover */
+}
+/* .checkout {
+  display: flex;
+  padding: 20px;
+  background-color: white;
+  height: max-content;
+}
+
+.checkout__ad {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.checkout__title {
+  margin-right: 10px;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+} */
