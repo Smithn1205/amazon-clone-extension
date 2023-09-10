@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-## Enhancing Chris-amazon-clone
+## Enhancing [Chris-amazon-clone](https://github.com/chrisdias2311/chris-amazon-clone)
 
-In this project, I've extended and improved Chris-amazon-clone. My goal was to elevate its functionality and usability, making it an even more valuable tool for users.
+In this project, I've extended and improved [Chris-amazon-clone](https://github.com/chrisdias2311/chris-amazon-clone). My goal was to elevate its functionality and usability, making it an even more valuable tool for users.
 
 ## Key Enhancements:
     To add:
