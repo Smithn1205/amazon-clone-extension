@@ -1,5 +1,19 @@
 # Getting Started with Create React App
 
+## Enhancing Chris-amazon-clone
+
+In this project, I've extended and improved Chris-amazon-clone. My goal was to elevate its functionality and usability, making it an even more valuable tool for users.
+
+## Key Enhancements:
+    To add:
+    1. Search bar    
+    2. Payment Gateway
+    3. Registration page
+    4. A button to remove all the items from the cart
+    5. An "Order Successful" page
+    6. A "Return Order" page
+    7. And few other basic functionalities to various buttons like to increase or decrease quantity after clicking on the add to cart button, enable the 'Proceed' button when there are items in the cart, etc.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
